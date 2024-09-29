@@ -1,15 +1,13 @@
 # 💫 About Me:
-👋 Hi there! I’m [Your Name], a passionate software developer with a knack for solving complex problems. I specialize in [Your Specialization] and have experience with [Technologies/Languages].
+👋 Hi there! I’m Ehsan Ul Haq, a passionate software developer with a knack for solving complex problems. I specialize in WebApp and ERP Development and have experience with Python, Django, Frappe, Django Rest Framework, JS.
 
-🔭 I’m currently working on [Project or Field of Interest], where I aim to [Your Goal or Impact]. I love collaborating on open source projects and am always looking to contribute to meaningful and challenging initiatives.
+🔭 I’m currently working on different Erp and unicef Inforgraphy Projects. I love collaborating on open source projects and am always looking to contribute to meaningful and challenging initiatives.
 
-🌱 I’m learning [Technologies or Skills You’re Currently Learning] and am excited to apply new techniques to enhance my projects.
+🌱 I’m learning Automation and am excited to apply new techniques to enhance my projects.
 
-💬 Ask me about [Topics for Discussion], I'm happy to share my insights and collaborate.
+📫 How to reach me: ehsanulhaq212@gmail.com.
 
-📫 How to reach me: [Your Contact Information].
-
-⚡ Fun fact: [An Interesting Detail About You].
+⚡ Fun fact: Exploring Nature
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/test) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/test) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/test) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/test) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/test) 

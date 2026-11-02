@@ -1,37 +1,74 @@
-# 💫 About Me:
-👋 Hi there! I’m Ehsan Ul Haq, a passionate software developer with a knack for solving complex problems. I specialize in WebApp and ERP Development and have experience with Python, Django, Frappe, Django Rest Framework, JS.
+<div align="center">
 
-🔭 I’m currently working on different Erp and unicef Inforgraphy Projects. I love collaborating on open source projects and am always looking to contribute to meaningful and challenging initiatives.
+Hi, I'm Ehsan Ul Haq 👋
+Senior Python Developer · AI / RAG Engineer · Backend & Automation
+I build practical software—from enterprise web applications and ERP platforms to AI assistants that turn trusted information into useful answers.
 
-🌱 I’m learning Automation and am excited to apply new techniques to enhance my projects.
 
-📫 How to reach me: ehsanulhaq212@gmail.com.
 
-⚡ Fun fact: Exploring Nature
+</div>
 
-## 🌐 Socials:
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-ul-haq-098a1b248/) 
+👨‍💻 About me
+I'm a Python developer with 4+ years of professional experience working on enterprise applications, ERP systems, healthcare software, APIs, reporting, and cloud deployments. I'm now building on that foundation with Generative AI, Retrieval-Augmented Generation (RAG), LangChain, embeddings, and vector databases.
+- 🧠 AI engineering: RAG pipelines, LLM API integration, retrieval, source-grounded answers, and response validation.
+- 🛠️ Backend engineering: Python, Django, Flask, Django REST Framework, Frappe / ERPNext, and relational databases.
+- ☁️ Delivery & DevOps: AWS, Docker, Linux, GitHub Actions, CI/CD, and production troubleshooting.
+- 🤝 Collaboration: Translating stakeholder requirements into software, coordinating delivery, and improving business workflows.
+- 📚 Currently exploring: MCP (Model Context Protocol), AI agents, and more reliable AI-assisted development practices.
+- 🌿 Beyond code: I enjoy traveling and exploring nature.
+🚀 Selected work
+🧠 RAG-powered AI assistant · PlacidWay project
+Built and deployed a question-answering assistant that retrieves information from approved sources and provides evidence-grounded responses.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Frappe](https://img.shields.io/badge/Frappe-0093DD?style=for-the-badge&logo=frappe&logoColor=white) 
-![ERPNext](https://img.shields.io/badge/ERPNext-4B8BBE?style=for-the-badge&logo=erpnext&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
-![Supervisor](https://img.shields.io/badge/Supervisor-008000?style=for-the-badge&logo=supervisor&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Stack: Python · LangChain · Groq API · ChromaDB · Hugging Face embeddings · Streamlit
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ehsan-Rafeez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Rafeez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsan-Rafeez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Highlights: Document retrieval, citations, response safety checks, an automated evaluation harness, and Linux deployment.
+Project code and hosted demo can be shared when available and appropriate. No public repository link is included here because it hasn't been verified.
 
----
-[![](https://visitcount.itsvg.in/api?id=Ehsan-Rafeez&icon=0&color=0)](https://visitcount.itsvg.in)
+🏫 EduZeeno · School management / ERP
+Worked on planning, coordination, and technical delivery of a school-focused ERP product, connecting business requirements with implementation priorities.
+🏥 Healthcare management systems
+Developed backend functionality and workflows for healthcare management software using Python, Django, and PostgreSQL.
+📊 Enterprise dashboards & education systems
+Contributed to reporting, dashboard, and management systems for development-sector and education projects, including UNICEF-related initiatives and a Sindh school automation program covering 10,000+ schools.
+🧰 Tech stack
+Languages & backend
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+AI & data
+
+
+
+
+
+
+
+Databases, cloud & tooling
+
+
+
+
+
+
+
+
+
+📈 GitHub activity
+<div align="center">
+
+
+</div>
+
+GitHub activity reflects public repository visibility; much of my professional work is in private client projects.
+
+🤝 Let's connect
+I'm interested in AI engineering, senior Python/backend roles, automation, and forward-deployed solutions—especially projects where the outcome is a working system that solves a real problem.
+
+📬 Email: ehsanulhaq212@gmail.com
+💼 LinkedIn: ehsan-ul-haq
